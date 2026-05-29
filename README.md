@@ -18,9 +18,11 @@
 ### 🚀 About Me
 
 - 🧠 **Currently:** Pursuing my M.Sc. in Artificial Intelligence & Machine Learning at **TU Darmstadt** 🇩🇪.
+- ✈️ **Up Next:** Heading to **IIT Bombay** for an exchange semester (July – Nov 2026).
 - 💼 **Previously:** Built enterprise-grade systems as a Software Engineer at **Optum**.
-- 🏙️ **Entrepreneurship:** Founder of **Studio Darmstadt**, bringing modern, Big-Tech digital architecture to local businesses in Hessen.
-- ⚡ **When I'm not coding:** You'll find me playing competitive table tennis, clicking pictures or travelling.
+- 🏙️ **Entrepreneurship:** Founder of **Studio Darmstadt**, bridging the gap between Big-Tech digital architecture and local businesses. 
+- 🌍 **Traveloggue:** Currently building **Traveloggue** 🔜 — an upcoming venture centered on curated travel itineraries, local cultural experiences, and unique artisan souvenirs.
+- ⚡ **When I'm not coding:** You'll find me playing competitive table tennis, football, or cricket.
 
 ---
 
@@ -29,15 +31,18 @@
 * **Frontend:** React.js, Next.js, Tailwind CSS, Framer Motion
 * **Backend:** Node.js, PostgreSQL, Prisma
 * **AI / ML:** Large Language Models (LLMs), Generative AI, Computer Vision
-* **Design:** Minimalist UI/UX, Localized Digital Branding
+* **Design:** Minimalist UI/UX, Indian Maximalism, Localized Digital Branding
 
 ---
 
 ### 🛠️ Featured Projects
 
-* **Trashin:** A comprehensive waste pickup scheduling and routing platform engineered for the city of Dehradun.
-* **CiteLM:** A flexible framework for generating, managing, and structuring LLM citations. 
-* **Virtual Traffic Police:** A computer vision system designed to detect traffic rule violators in real-time (adopted by Delhi Police).
+* **CiteLM:** A flexible framework for evaluating and structuring LLM citations for RAG attribution.
+* **Beyond Plausibility:** Research focusing on the limitations and performance of AI-driven code generation models.
+* **Virtual Traffic Police:** A computer vision-based platform for real-time traffic rule violation detection (officially adopted).
+* **Smart Traffic Management System:** Award-winning adaptive signal optimization system (CSI Hackathon 3.0).
+* **Trashin:** A decentralized waste pickup scheduling and optimized routing platform.
+* **5G & Connected Vehicles:** Research on latency optimization for autonomous vehicular networks.
 
 ---
 
