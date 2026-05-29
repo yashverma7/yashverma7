@@ -18,7 +18,6 @@
 ### 🚀 About Me
 
 - 🧠 **Currently:** Pursuing my M.Sc. in Artificial Intelligence & Machine Learning at **TU Darmstadt** 🇩🇪.
-- ✈️ **Up Next:** Heading to **IIT Bombay** for an exchange semester (July – Nov 2026).
 - 💼 **Previously:** Built enterprise-grade systems as a Software Engineer at **Optum**.
 - 🏙️ **Entrepreneurship:** Founder of **Studio Darmstadt**, bridging the gap between Big-Tech digital architecture and local businesses. 
 - 🌍 **Traveloggue:** Currently building **Traveloggue** 🔜 — an upcoming venture centered on curated travel itineraries, local cultural experiences, and unique artisan souvenirs.
