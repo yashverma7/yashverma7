@@ -9,8 +9,8 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashverma7&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashverma7&theme=dark&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashverma7&show_icons=true&theme=bear" alt="Yash's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashverma7&theme=dark&hide_border=true" alt="Yash's GitHub Streak" />
 </p>
 
 ---
@@ -18,9 +18,9 @@
 ### 🚀 About Me
 
 - 🧠 **Currently:** Pursuing my M.Sc. in Artificial Intelligence & Machine Learning at **TU Darmstadt** 🇩🇪.
-- ✈️ **Up Next:** Heading to **IIT Bombay** for an exchange semester (July – Nov 2026).
 - 💼 **Previously:** Built enterprise-grade systems as a Software Engineer at **Optum**.
 - 🏙️ **Entrepreneurship:** Founder of **Studio Darmstadt**, bringing modern, Big-Tech digital architecture to local businesses in Hessen.
+- 
 - ⚡ **When I'm not coding:** You'll find me playing competitive table tennis, football, or cricket.
 
 ---
@@ -44,6 +44,6 @@
 
 <p align="center">
   <i>Let's connect and build something awesome!</i><br><br>
-  <a href="mailto:[YOUR_EMAIL_ADDRESS]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:vermayash9999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/yash-verma-in"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
