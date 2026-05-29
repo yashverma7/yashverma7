@@ -9,7 +9,8 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashverma7&show_icons=true&theme=bear" alt="Yash's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=yashverma7&theme=dark&hide_border=true" alt="Yash's GitHub Streak" />
+
 </p>
 
 ---
