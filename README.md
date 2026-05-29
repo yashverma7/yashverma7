@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashverma7&show_icons=true&theme=bear" alt="Yash's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashverma7&theme=dark&hide_border=true" alt="Yash's GitHub Streak" />
 </p>
 
 ---
@@ -20,8 +19,7 @@
 - 🧠 **Currently:** Pursuing my M.Sc. in Artificial Intelligence & Machine Learning at **TU Darmstadt** 🇩🇪.
 - 💼 **Previously:** Built enterprise-grade systems as a Software Engineer at **Optum**.
 - 🏙️ **Entrepreneurship:** Founder of **Studio Darmstadt**, bringing modern, Big-Tech digital architecture to local businesses in Hessen.
-- 
-- ⚡ **When I'm not coding:** You'll find me playing competitive table tennis, football, or cricket.
+- ⚡ **When I'm not coding:** You'll find me playing competitive table tennis, clicking pictures or travelling.
 
 ---
 
